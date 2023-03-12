@@ -85,4 +85,5 @@
 - resize
 - mask-image, mix-blend-mode
 - box-decoration-break
+- text-stroke
 
