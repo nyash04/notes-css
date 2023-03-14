@@ -86,4 +86,6 @@
 - mask-image, mix-blend-mode
 - box-decoration-break
 - text-stroke
-
+- writing-mode
+- animation-play-state
+- stroke-dasharray, stroke-dashoffset
